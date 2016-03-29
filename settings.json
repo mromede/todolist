@@ -1,0 +1,27 @@
+{
+  "public": {},
+  "private": {
+    "oAuth": {   
+      "facebook": {
+        "appId": "1565293067121255",
+        "secret": "9986247c11736c7ca94e7218b53d9d34",
+        "redirect_uri": "https://todos-mromede.c9users.io/"
+      },
+      "github": {
+        "clientId": "6a3e58f01190d31f0e39",
+        "secret": "c6edaa636f8150eab68124ca639be2ee6b2a4552",
+        "redirect_uri": "https://todos-mromede.c9users.io/"
+      }, 
+      "google": { 
+        "clientId": "733192766318-lmrgajcnljfq5km68e2rl3n8jvac5vh4.apps.googleusercontent.com",
+        "secret": "2i6nDZ_PC3BiTWll87Mejx9z",
+        "redirect_uri": "https://todos-mromede.c9users.io/" 
+      },
+      "twitter": {
+        "consumerKey": "acrnw2sCwRmDUzhQSq0SLAdQi", 
+        "secret": "GW4QDHjkuMPMPfaLjPyVKtVrHW0Ui2Y514B5PWaChWAwhgwNnJ"
+      }
+    }
+  }
+} 
+
