@@ -71,7 +71,7 @@ if(Meteor.isClient){
       'submit form':function(event){
         event.preventDefault();
         var listName = $('[name=listName]').val();
-        console.log("hi");
+        console.log("submitted");
         Lists.insert({
           name: listName
         });
